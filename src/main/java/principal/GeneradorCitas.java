@@ -66,7 +66,7 @@ public class GeneradorCitas {
         System.out.println(nueva);
     }
 
-    // Resto de métodos (verCitas, eliminarCita, buscarCita, asociarFactura) quedan igual
+
     // 2. Ver citas programadas
     public void verCitas() {
         if (agenda.isEmpty()) {
